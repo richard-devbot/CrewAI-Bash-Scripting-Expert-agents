@@ -1,0 +1,1 @@
+# CrewAI-Bash-Scripting-Expert-agents
